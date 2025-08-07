@@ -45,3 +45,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'bcrypt'
 gem 'jwt'
+gem 'image_processing', '~> 1.12'
+gem 'mini_magick'
+gem 'ruby-filemagic'
